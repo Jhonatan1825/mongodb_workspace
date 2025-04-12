@@ -12,3 +12,4 @@ db.prenda.insertOne(
 )*/
 
 db.prenda.find()
+db.prenda.find().count
